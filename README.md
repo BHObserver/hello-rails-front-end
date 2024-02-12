@@ -7,7 +7,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [Frontend Link ](#frontend-link-)
+  - [Backend Link ](#backend-link-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -27,9 +27,8 @@
 **The Hello World project**
 
 ## 🛠 Built With <a name="built-with"></a>
-- ✅ Ruby
-- ✅ Rails
-- ✅ Postgresql
+- ✅ React
+- ✅ Redux
 - ✅ Linters
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -37,7 +36,7 @@
 <details>
   <summary>Language</summary>
   <ul>
-    <li>Rails</li>
+    <li>React</li>
   </ul>
 </details>
 
@@ -45,17 +44,15 @@
 
 ### Key Features <a name="key-features"></a>
 
-- 🔰 **Static view**
 - 🔰 **Generate greeting**
-- 🔰 **Api path**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FRONTEND LINK -->
 
-## Frontend Link <a name="frontend-link"></a>
+## Backend Link <a name="frontend-link"></a>
 
-- React Frontend Link [here](https://github.com/BHObserver/hello-rails-front-end/tree/feature/display-greeting)
+- React Backend Link [here](https://github.com/BHObserver/hello-rails-front-end/tree/feature/display-greeting)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,17 +62,15 @@
 
 **To get a local copy up and running, follow these steps.**
 
-1. Download or clone this [repostory](https://github.com/BHObserver/hello-rails-front-end.git).
+1. Download or clone this [repostory](https://github.com/BHObserver/hello-rails-back-end.git).
 2. Provide a modern web browser.
 
 ### Prerequisites
 
 **In order to run this project you need:**
 
-- ✔ Ruby installed in your machine. you can download it from [here](https://www.ruby-lang.org/en/downloads/)
+- ✔ React installed in your machine.
 - ✔ IDE or a code editor installed in your machine.
-- ✔ IRB.
-- ✔ Get Postgresql up and running. you can download it from [here](https://www.postgresql.org/download/windows/).
 - ✔ [Git](https://git-scm.com/downloads) installed in your machine.
 - ✔ Sign in or sign up to your [Github](https://github.com/) account.
 - ✔ A professional editer such as [VS Code](https://code.visualstudio.com/download).
@@ -83,14 +78,14 @@
 
 ### Setup
 
-- Clone this [repository](https://github.com/BHObserver/hello-rails-front-end.git) to your desired folder:
+- Clone this [repository](https://github.com/BHObserver/hello-rails-back-end.git) to your desired folder:
 
 - Run this command in your command line interface:
 
 ```sh
   cd [YOUR FOLDER]
-  git https://github.com/BHObserver/hello-rails-front-end.git
-  cd hello-rails-back-end
+  git https://github.com/BHObserver/hello-rails-back-end.git
+  cd hello-react-front-end
   bundle install
   code .
 ```
@@ -103,7 +98,7 @@
 - To run the project, execute the following command:
 
 ```sh
-    rails s
+    npm start
 ```
 
 ### Deployment
@@ -118,8 +113,7 @@
 
 👤 **Burhan Uddin**
 
-- GitHub: [@BHObserver](https://github.com/bhobserver)
-
+- GitHub: [@BHObserver](https://github.com/BHObserver)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +132,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/BHObserver/hello-rails-front-end/issues).
+Feel free to check the [issues page](https://github.com/BHObserver/hello-rails-back-end/issues)).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,7 +140,7 @@ Feel free to check the [issues page](https://github.com/BHObserver/hello-rails-f
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, kindly drop a start ⭐️ for the [repository](https://github.com/BHObserver/hello-rails-front-end.git);
+If you like this project, kindly drop a start ⭐️ for the [repository](https://github.com/BHObserver/hello-rails-back-end.git);
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

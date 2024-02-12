@@ -48,7 +48,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FRONTEND LINK -->
+<!-- BACKEND LINK -->
 
 ## Backend Link <a name="frontend-link"></a>
 
